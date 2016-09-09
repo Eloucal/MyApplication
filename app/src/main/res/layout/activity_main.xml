@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical" android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:background="@drawable/aaa">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -16,7 +17,7 @@
             android:textSize="30sp"
             android:gravity="center"
             android:textColor="#1d1c1c"
-            android:background="#fff200"/>
+            android:background="#9cfff200"/>
         <TextView
             android:layout_width="0dp"
             android:layout_weight="1"
@@ -25,7 +26,7 @@
             android:textSize="30sp"
             android:gravity="center"
             android:textColor="#1fca19"
-            android:background="#ef0083"/>
+            android:background="#8eef0083"/>
         <TextView
         android:layout_width="0dp"
         android:layout_weight="1"
@@ -34,7 +35,7 @@
         android:textSize="30sp"
         android:gravity="center"
         android:textColor="#ff0000"
-        android:background="#11ced1"/>
+        android:background="#a611ced1"/>
     </LinearLayout>
 
     <LinearLayout
@@ -50,7 +51,7 @@
             android:textSize="30sp"
             android:gravity="center"
             android:textColor="#3323e4"
-            android:background="#23d617"/>
+            android:background="#9223d617"/>
         <TextView
             android:layout_width="0dp"
             android:layout_weight="1"
@@ -59,7 +60,7 @@
             android:textSize="30sp"
             android:gravity="center"
             android:textColor="#f3f2f5"
-            android:background="#390599"/>
+            android:background="#b1390599"/>
         <TextView
             android:layout_width="0dp"
             android:layout_weight="1"
@@ -68,7 +69,7 @@
             android:textSize="30sp"
             android:gravity="center"
             android:textColor="#3323e4"
-            android:background="#d317d6"/>
+            android:background="#83d317d6"/>
     </LinearLayout>
 
     <LinearLayout
@@ -84,7 +85,7 @@
             android:textSize="30sp"
             android:gravity="center"
             android:textColor="#23e4ad"
-            android:background="#f55c03"/>
+            android:background="#9af55c03"/>
         <TextView
             android:layout_width="0dp"
             android:layout_weight="1"
@@ -92,8 +93,8 @@
             android:text="8"
             android:textSize="30sp"
             android:gravity="center"
-            android:textColor="#120036"
-            android:background="#9df90a"/>
+            android:textColor="#af120036"
+            android:background="#c51ef90a"/>
         <TextView
             android:layout_width="0dp"
             android:layout_weight="1"
@@ -102,6 +103,6 @@
             android:textSize="30sp"
             android:gravity="center"
             android:textColor="#23a7e4"
-            android:background="#ff0004"/>
+            android:background="#a1ff0004"/>
     </LinearLayout>
 </LinearLayout>
