@@ -51,5 +51,57 @@
             android:gravity="center"
             android:textColor="#3323e4"
             android:background="#23d617"/>
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:text="Eloucal"
+            android:textSize="30sp"
+            android:gravity="center"
+            android:textColor="#f3f2f5"
+            android:background="#5d58be"/>
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:text="6"
+            android:textSize="30sp"
+            android:gravity="center"
+            android:textColor="#3323e4"
+            android:background="#d317d6"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:text="7"
+            android:textSize="30sp"
+            android:gravity="center"
+            android:textColor="#23e4ad"
+            android:background="#f55c03"/>
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:text="8"
+            android:textSize="30sp"
+            android:gravity="center"
+            android:textColor="#120036"
+            android:background="#9df90a"/>
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:text="9"
+            android:textSize="30sp"
+            android:gravity="center"
+            android:textColor="#23a7e4"
+            android:background="#ff0004"/>
     </LinearLayout>
 </LinearLayout>
