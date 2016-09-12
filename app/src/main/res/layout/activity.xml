@@ -2,28 +2,7 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/aaa"
-
-    >
-    <LinearLayout
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content">
-        <Button
-            android:layout_marginLeft="50dp"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:background="#aa020c53"
-            android:text="姓名"
-            android:textColor="#ff0000"
-            android:textSize="30dp"
-            android:id="@+id/nameId"/>
-        <EditText
-            android:layout_marginLeft="50dp"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-           android:hint="请输入名字"
-            android:textSize="25dp"/>
-    </LinearLayout>
+   >
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -34,7 +13,7 @@
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="match_parent"
-            android:text="1"
+            android:text="艾"
             android:textSize="30sp"
             android:gravity="center"
             android:textColor="#1d1c1c"
@@ -43,20 +22,20 @@
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="match_parent"
-            android:text="2"
+            android:text="登录成功"
             android:textSize="30sp"
             android:gravity="center"
-            android:textColor="#1fca19"
+            android:textColor="#420093"
             android:background="#8eef0083"/>
         <TextView
-        android:layout_width="0dp"
-        android:layout_weight="1"
-        android:layout_height="match_parent"
-        android:text="3"
-        android:textSize="30sp"
-        android:gravity="center"
-        android:textColor="#ff0000"
-        android:background="#a611ced1"/>
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:text="哟"
+            android:textSize="30sp"
+            android:gravity="center"
+            android:textColor="#ff0000"
+            android:background="#a611ced1"/>
     </LinearLayout>
 
     <LinearLayout
@@ -68,7 +47,7 @@
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="match_parent"
-            android:text="4"
+            android:text="路"
             android:textSize="30sp"
             android:gravity="center"
             android:textColor="#3323e4"
@@ -77,16 +56,16 @@
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="match_parent"
-            android:text="Eloucal"
+            android:text="艾路好帅"
             android:textSize="30sp"
             android:gravity="center"
             android:textColor="#f3f2f5"
-            android:background="#b1390599"/>
+            android:background="#c3390599"/>
         <TextView
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="match_parent"
-            android:text="6"
+            android:text="你"
             android:textSize="30sp"
             android:gravity="center"
             android:textColor="#3323e4"
@@ -102,7 +81,7 @@
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="match_parent"
-            android:text="7"
+            android:text="我"
             android:textSize="30sp"
             android:gravity="center"
             android:textColor="#23e4ad"
@@ -111,16 +90,16 @@
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="match_parent"
-            android:text="8"
+            android:text="好"
             android:textSize="30sp"
             android:gravity="center"
             android:textColor="#af120036"
-            android:background="#c51ef90a"/>
+            android:background="#8df90e0a"/>
         <TextView
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="match_parent"
-            android:text="9"
+            android:text="爱"
             android:textSize="30sp"
             android:gravity="center"
             android:textColor="#23a7e4"
